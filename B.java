@@ -25,4 +25,8 @@ public class B{
     public void MB2(){
         system.print.out("MB2");
     }
+
+    public void MB3(){
+        system.print.out("MB3");
+    }
 }

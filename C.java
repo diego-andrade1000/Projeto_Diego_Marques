@@ -25,4 +25,8 @@ public class C{
     public void MC2(){
         system.print.out("MC2");
     }
+
+    public void MC3(){
+        system.print.out("MC3");
+    }
 }
