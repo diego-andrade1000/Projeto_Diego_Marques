@@ -25,5 +25,9 @@ public class D{
     public void MD2(){
         system.print.out("MD2");
     }
+    
+     public void MD3(){
+        system.print.out("MD3");
+    }
 
 }
